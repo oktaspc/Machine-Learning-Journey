@@ -7,7 +7,7 @@ Sumber video: https://www.youtube.com/c/IndonesiaBelajarKomputer
 
 1. pemrogramman python<br/>
 https://www.youtube.com/playlist?list=PL2O3HdJI4voGzh8BtjRcm_7-O-AsT3TMm<br/>
-Source Code : LINK
+Source Code : https://github.com/oktaspc/Machine-Learning-Journey/tree/main/pythonic-source-code
 
 2. sturuktur data python<br/>
 https://www.youtube.com/watch?v=Sa-cnoUkNbU&list=PL2O3HdJI4voEOEB5ecXtCTayzXSB8b3KZ<br/>
